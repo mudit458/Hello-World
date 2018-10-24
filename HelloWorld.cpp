@@ -1,8 +1,14 @@
-#include <iostream>
-using namespace std;
+// Header file for input output functions 
+#include<iostream> 
 
-int main()
-{
-    cout <<"\nHello World"<< endl;
-    return 0;
-}
+using namespace std; 
+
+// main function - 
+// where the execution of program begins 
+int main() 
+{ 
+	// prints hello world 
+	cout<<"Hello World"; 
+	
+	return 0; 
+} 
